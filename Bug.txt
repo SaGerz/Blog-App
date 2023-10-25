@@ -1,0 +1,4 @@
+Bug : 
+1. ketika kita ambil url edit sesuai idnya, namun kita belum login kita masih dapat mengakses halaman edit tsb. dan problemnnya jika kita pencet edit post itu akan mempengaruhi sistem pada backend/server/api
+
+2. Ketika kita ambil url create, namun kita belum login kita tetap maih bisa mengakses halaman edit tsb. dan problemnnya jika kita pencet edit post itu akan mempengaruhi sistem pada backend/server/api
